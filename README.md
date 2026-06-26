@@ -39,8 +39,8 @@ people management.
 - HR Analytics Dataset
 
 ## Dashboard Preview
-![HR Analytics Dashboard](<img width="877" height="498" alt="image" src="https://github.com/user-attachments/assets/e0bd6074-1cb2-4e65-be7e-909061ea0332" />
-)
+![HR Analytics Dashboard]<img width="715" height="388" alt="hr_analytics" src="https://github.com/user-attachments/assets/1819b45e-9243-48fb-b096-d5188e26621a" />
+
 
 ## Connect
 - LinkedIn: linkedin.com/in/tahir-adeleye
